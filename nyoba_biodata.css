@@ -1,4 +1,3 @@
-/*  */
 .about {
     font-style: italic;
 }
@@ -37,5 +36,5 @@ a:hover {
 }
 
 a:visited {
-    background-color: darkgray;
+    color: darkgray;
 }
