@@ -1,0 +1,90 @@
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px 40px;
+}
+
+.identity-details {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.card-identity h2 {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.title {
+    text-align: center;
+    margin-top: 40px;
+}
+
+body {
+    padding-top: 60px;
+    max-width: 650px;
+    margin: 0 auto;
+}
+
+.about {
+    font-style: italic;
+}
+
+#list {
+    list-style: square;
+}
+
+img {
+    width: 70px;
+    margin-left: 15px;
+}
+
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+
+h1 {
+    font-size: 1.8rem;
+}
+
+h2 {
+    font-size: 1.3rem;
+}
+
+h3 {
+    font-size: 1.1rem;
+}
+
+h4 {
+    font-size: 0.9rem;
+}
+
+a:hover {
+    background-color: yellow;
+}
+
+.card-identity {
+    background-color: rgb(6, 206, 246);
+}
+
+.bubble-account {
+    background-color: rgb(81, 255, 81);
+    text-align: center;
+    border-radius: 30px;
+    border: solid rgb(81, 255, 81);
+}
+
+.notes-interest h2{
+    text-align: center;
+}
+
+a:visited {
+    color: rgb(101, 98, 98);
+    max-width: 600;
+}
